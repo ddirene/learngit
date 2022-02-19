@@ -1,3 +1,4 @@
-git 1
-add first
-add another
+ HEAD
+First
+Second
+ another
