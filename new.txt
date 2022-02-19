@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 First
 Second
+=======
+another 
+>>>>>>> another
