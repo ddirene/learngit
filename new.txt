@@ -1,10 +1,4 @@
 git 1
 add first
 add another
-<<<<<<< HEAD
-creat a new branch
-add asd
-=======
-creat a new branch Add simple
-add qwe
->>>>>>> dev
+add simple
